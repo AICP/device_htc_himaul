@@ -5,9 +5,9 @@
     "branch": "n7.1"
   },
   {
-    "repository": "LineageOS/android_kernel_htc_msm8994",
+    "repository": "AICP/kernel_htc_msm8994",
     "target_path": "kernel/htc/msm8994",
-    "branch": "cm-14.1"
+    "branch": "n7.1"
   },
   {
    "repository":  "TheMuppets/proprietary_vendor_htc",
