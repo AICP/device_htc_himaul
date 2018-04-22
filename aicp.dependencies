@@ -2,16 +2,6 @@
   {
     "repository": "AICP/device_htc_hima-common",
     "target_path": "device/htc/hima-common",
-    "branch": "n7.1"
-  },
-  {
-    "repository": "AICP/kernel_htc_msm8994",
-    "target_path": "kernel/htc/msm8994",
-    "branch": "n7.1"
-  },
-  {
-   "repository":  "TheMuppets/proprietary_vendor_htc",
-   "target_path": "vendor/htc",
-   "branch":      "cm-14.1"
+    "branch": "o8.1"
   }
 ]
