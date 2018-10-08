@@ -1,6 +1,4 @@
 # we need this to get DTS eagle compiled
 67793/1 http://gerrit.aicp-rom.com hardware/qcom/audio-caf/msm8994
-# to get DTS eagle HPX switch working
-71753/1 http://gerrit.aicp-rom.com hardware/qcom/audio-caf/msm8994
 # video rec fix
 68945/1 http://gerrit.aicp-rom.com frameworks/av
