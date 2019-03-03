@@ -2,6 +2,6 @@
   {
     "repository": "AICP/device_htc_hima-common",
     "target_path": "device/htc/hima-common",
-    "branch": "o8.1"
+    "branch": "p9.0"
   }
 ]
