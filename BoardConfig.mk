@@ -17,7 +17,7 @@
 # inherit from hima-common
 -include device/htc/hima-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := htc_himaul,htc_himauhl,himaul,himauhl
+TARGET_OTA_ASSERT_DEVICE := htc_himaul,htc_himauhl,htc_himaulatt,himaul,himauhl,himaulatt
 
 # inherit from the proprietary version
 -include vendor/htc/himaul/BoardConfigVendor.mk
