@@ -1,2 +1,2 @@
 # we need this to get DTS eagle compiled
-67793/1 http://gerrit.aicp-rom.com hardware/qcom/audio-caf/msm8994
+3332/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994
