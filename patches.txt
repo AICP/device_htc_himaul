@@ -1,7 +1,7 @@
 # we need this to get DTS eagle compiled
 3332/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994
 # audio-hal Backports
-3397/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 -f
-3398/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 -f
-3399/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 -f
-3400/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 -f
+3397/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 true
+3398/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 true
+3399/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 true
+3400/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 true
