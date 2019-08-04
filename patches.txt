@@ -5,3 +5,6 @@
 3398/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 true
 3399/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 true
 3400/1 https://review.gzospgzr.com hardware/qcom/audio-caf/msm8994 true
+# JamesDSP
+93006/1 https://gerrit.aicp-rom.com vendor/aicp
+93007/1 https://gerrit.aicp-rom.com packages/apps/JamesDSPManager
