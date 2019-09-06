@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aicp_himaul.mk
+
+COMMON_LUNCH_CHOICES := \
+    aicp_himaul-user \
+    aicp_himaul-userdebug \
+    aicp_himaul-eng
