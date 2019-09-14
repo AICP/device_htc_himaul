@@ -14,7 +14,7 @@ BUILD_FINGERPRINT="htc/himaulatt_na_gen_unlock/htc_himaulatt:7.0/NRD90M/894012.1
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Julian Veit (Claymore1297), Ali B (eyosen)"
+    DEVICE_MAINTAINERS="Julian Veit (Claymore1297), Ali B (eyosen), Joel Stein (k4y0z)"
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
